@@ -1,0 +1,15 @@
+#box {
+  width: 500px;
+  height: 500px;
+  background-color: aqua;
+  border-radius: 50px;
+}
+
+#doNot {
+  font-size: 45px;
+  padding: 20px;
+  border-radius: 15px;
+  font-weight: 800;
+  background-color: aliceblue;
+  border: 10px solid red;
+}
