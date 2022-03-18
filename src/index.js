@@ -26,7 +26,7 @@ import Project33_State from './classProjects/Project33_State';
 import Project34_useEffect from './classProjects/Project34_useEffect';
 import Project35_Forms from './classProjects/Project35_Forms';
 import Week9_HW_FramerMotion from './homeWork/week9/Week9_HW_FramerMotion';
-import Week10_HW_PlaceHolder from './homeWork/week10/Week10_HW_PlaceHolder';
+import Week10_HW_Wordle from './homeWork/week10/Week10_HW_Wordle';
 
 ReactDOM.render(
   // prettier-ignore
@@ -61,7 +61,7 @@ ReactDOM.render(
         {/* Home Work                 Home Work                  Home Work    */}
 
         <Route path="/homeWork/week9" element={<Week9_HW_FramerMotion />} />
-        <Route path="/homeWork/week10" element={<Week10_HW_PlaceHolder />} />
+        <Route path="/homeWork/week10" element={<Week10_HW_Wordle />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,
